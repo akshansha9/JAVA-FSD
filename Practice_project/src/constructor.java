@@ -30,7 +30,7 @@ class Person {
     }
 }
 
-public class Constructor {
+public class constructor {
     public static void main(String[] args) {
         // Using Default Constructor
         Person person1 = new Person();
