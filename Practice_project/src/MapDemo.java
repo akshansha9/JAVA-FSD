@@ -33,6 +33,6 @@ public class MapDemo {
 
         // Check if the map is empty
         boolean isEmpty = studentScores.isEmpty();
-        System.out.println("\nIs the Map Empty: " + isEmpty);
+        System.out.println("\n Map Empty: " + isEmpty);
     }
 }
