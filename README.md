@@ -1,2 +1,2 @@
-# JAVA_FSD_PS1
-Questions solution of Practice exercise
+# JAVA_FSD
+Solution of Practice exercise(assisted)
