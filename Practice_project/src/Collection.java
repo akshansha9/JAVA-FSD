@@ -9,7 +9,7 @@ public class Collection {
         // ArrayList
         ArrayList<String> arrayList = new ArrayList<>();
         arrayList.add("Apple");
-        arrayList.add("Banana");
+        arrayList.add("Berry");
         arrayList.add("Cherry");
 
         System.out.println("ArrayList:");
@@ -19,9 +19,9 @@ public class Collection {
 
         // LinkedList
         LinkedList<Integer> linkedList = new LinkedList<>();
-        linkedList.add(10);
-        linkedList.add(20);
-        linkedList.add(30);
+        linkedList.add(15);
+        linkedList.add(25);
+        linkedList.add(35);
 
         System.out.println("\nLinkedList:");
         for (int number : linkedList) {
@@ -31,7 +31,7 @@ public class Collection {
         // HashSet
         HashSet<String> hashSet = new HashSet<>();
         hashSet.add("Red");
-        hashSet.add("Green");
+        hashSet.add("Yellow");
         hashSet.add("Blue");
 
         System.out.println("\nHashSet:");
